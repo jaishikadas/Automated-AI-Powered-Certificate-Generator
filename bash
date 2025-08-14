@@ -1,3 +1,5 @@
+#sample_recipients.csv
+
 %%bash
 cat > sample_recipients.csv <<EOL
 Name,Course,Date
